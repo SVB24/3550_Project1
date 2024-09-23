@@ -16,15 +16,15 @@ This project implements a basic JWKS (JSON Web Key Set) server using FastAPI. It
 ## Setup
 
 jwks_server/
-├── app/
-│   ├── __init__.py
-│   ├── main.py
-│   ├── key_manager.py
-│   └── jwt_utils.py
-├── tests/
-│   ├── __init__.py
-│   ├── test_auth.py
-│   ├── test_jwks.py
-│   └── test_key_manager.py
-├── requirements.txt
+── app/
+   ── __init__.py
+   ── main.py
+   ── key_manager.py
+   ── jwt_utils.py
+── tests/
+   ── __init__.py
+   ── test_auth.py
+   ── test_jwks.py
+   ── test_key_manager.py
+── requirements.txt
 └── README.md
